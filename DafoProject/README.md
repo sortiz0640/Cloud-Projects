@@ -1,12 +1,12 @@
 
-# DafoProject 🌐 Cloud-Based Game Server and Website \
+# DafoProject 🌐 Cloud-Based Game Server and Website
 This project implements a cloud-based infrastructure to host a game server and a website for managing game assets and documentation. The architecture is deployed on Microsoft Azure, ensuring scalability, security, and efficient access control via a VPN gateway. 
 
 ## 📁 Project Overview
 The system consists of the following key components:
 
 - Virtual Machine (Windows Server 2022): Hosts the game server and the website.
-- Game Server: Runs the game, allowing clients to connect and play.
+- Game Server: Runs a Minecraft Server, allowing clients to connect and play using the server IP address and port 25565.
 - Website: Provides access to game assets and documentation for players.
 - VPN Gateway: Ensures secure remote access for authorized users.
 - Cloud Infrastructure: Designed with Azure Virtual Network, subnets, and network security groups (NSG) to manage access control.
