@@ -1,0 +1,30 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_DafoServer_name": {
+            "value": null
+        },
+        "virtualNetworks_DafoNetwork_name": {
+            "value": null
+        },
+        "networkInterfaces_dafoserver287_name": {
+            "value": null
+        },
+        "publicIPAddresses_20_25_200_153_name": {
+            "value": null
+        },
+        "publicIPAddresses_DafoVN_PublicIP_name": {
+            "value": null
+        },
+        "publicIPAddresses_DafoVN_PublicIP2_name": {
+            "value": null
+        },
+        "virtualNetworkGateways_DafoVPN_Gateway_name": {
+            "value": null
+        },
+        "networkSecurityGroups_DafoSecurityGroup_name": {
+            "value": null
+        }
+    }
+}
