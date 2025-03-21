@@ -21,3 +21,6 @@ The system consists of the following key components:
 ![Cloud Diagram](https://github.com/sortiz0640/Cloud-Projects/blob/main/DafoProject/resources/cloud-diagram.png)
 > Created using [Eraser.io](https://www.eraser.io/diagramgpt)
 
+## 💿 Demo
+![Demo](https://github.com/sortiz0640/Cloud-Projects/blob/main/DafoProject/resources/demo/DafoProject.gif)
+
