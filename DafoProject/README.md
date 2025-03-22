@@ -23,4 +23,5 @@ The system consists of the following key components:
 
 ## 💿 Demo
 ![Demo](https://github.com/sortiz0640/Cloud-Projects/blob/main/DafoProject/resources/demo/DafoProject.gif)
+> This project is fully hosted in a private learning environment. Its resources are not deployed to the public
 
