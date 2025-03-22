@@ -14,20 +14,24 @@ The system consists of the following key components:
 
 ## ⚙️How It Works 
 1. Clients connect to the VPN to securely access the system.
-2. They can download resources and documentation from the website.
+2. They can review resources and documentation from the website.
 3. Players can connect to the game server to play online.
 > This architecture ensures a secure and efficient gaming environment, leveraging cloud computing for optimal performance and reliability.
 
 ## 💿 Demo
 ![Demo](https://github.com/sortiz0640/Cloud-Projects/blob/main/DafoProject/resources/demo/DafoProject.gif)
-> - This project is fully hosted in a private learning environment. Its resources are not deployed or available to the public <br><br>
-> - Review DafoWebsite code and resources [here](https://github.com/sortiz0640/Cloud-Projects/tree/main/DafoProject/resources/DafoWebsite)
+> Review DafoWebsite code and resources [here] 
+
 
 ## 💻 Server-Side Screenshot
 ![ServerSide screenshoot](https://github.com/user-attachments/assets/774a12a1-9df3-488d-ae5b-cc4e48516b58)
-> IIS Hosted Website and Minecraft Server Client running
+> IIS Hosted Website and Minecraft Server Client running.
 
 ## 🔷 Resource Infrastructure Diagram
 ![Cloud Diagram](https://github.com/sortiz0640/Cloud-Projects/blob/main/DafoProject/resources/DafoProject.png)
-> Created using Azure Resource Visualizer
+> Created using Azure Resource Visualizer.
+
+### Notes
+> This project is fully hosted in a private learning environment. Its resources are not deployed or available to the public.
+
 
