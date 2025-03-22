@@ -1,6 +1,7 @@
 
 # DafoProject 🌐 Cloud-Based Game Server and Website
 This project implements a cloud-based infrastructure to host a game server and a website for managing game assets and documentation. The architecture is deployed on Microsoft Azure, ensuring scalability, security, and efficient access control via a VPN gateway. 
+> Review ARM Template [here](https://github.com/sortiz0640/Cloud-Projects/tree/main/DafoProject/resources/Azure%20Resource%20Manager%20Template)
 
 ## 📁 Project Overview
 The system consists of the following key components:
