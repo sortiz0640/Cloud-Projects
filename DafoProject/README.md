@@ -17,11 +17,12 @@ The system consists of the following key components:
 3. Players can connect to the game server to play online.
 4. This architecture ensures a secure and efficient gaming environment, leveraging cloud computing for optimal performance and reliability.
 
+## 💿 Demo
+![Demo](https://github.com/sortiz0640/Cloud-Projects/blob/main/DafoProject/resources/demo/DafoProject.gif)
+> This project is fully hosted in a private learning environment. Its resources are not deployed or available to the public
+
+
 ## 🔷Resource Infrastructure Diagram
 ![Cloud Diagram](https://github.com/sortiz0640/Cloud-Projects/blob/main/DafoProject/resources/DafoProject.png)
 > Created using Azure Resource Visualizer 
-
-## 💿 Demo
-![Demo](https://github.com/sortiz0640/Cloud-Projects/blob/main/DafoProject/resources/demo/DafoProject.gif)
-> This project is fully hosted in a private learning environment. Its resources are not deployed to the public
 
