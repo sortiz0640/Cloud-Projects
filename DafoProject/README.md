@@ -23,7 +23,7 @@ The system consists of the following key components:
 
 
 ## 🔷Resource Infrastructure Diagram
-![Cloud Diagram](https://github.com/sortiz0640/Cloud-Projects/blob/main/DafoProject/resources/DafoProject.png)
+![Cloud Diagram](https://github.com/sortiz0640/Cloud-Projects/blob/main/DafoProject/resources/DafoProject.png){: style="max-width: 100%;"}
 > Created using Azure Resource Visualizer
 
 ## 💻 Server-Side Screenshot
