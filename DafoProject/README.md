@@ -15,7 +15,7 @@ The system consists of the following key components:
 1. Clients connect to the VPN to securely access the system.
 2. They can download resources and documentation from the website.
 3. Players can connect to the game server to play online.
-4. This architecture ensures a secure and efficient gaming environment, leveraging cloud computing for optimal performance and reliability.
+> This architecture ensures a secure and efficient gaming environment, leveraging cloud computing for optimal performance and reliability.
 
 ## 💿 Demo
 ![Demo](https://github.com/sortiz0640/Cloud-Projects/blob/main/DafoProject/resources/demo/DafoProject.gif)
