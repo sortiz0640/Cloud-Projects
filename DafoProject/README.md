@@ -24,5 +24,9 @@ The system consists of the following key components:
 
 ## 🔷Resource Infrastructure Diagram
 ![Cloud Diagram](https://github.com/sortiz0640/Cloud-Projects/blob/main/DafoProject/resources/DafoProject.png)
-> Created using Azure Resource Visualizer 
+> Created using Azure Resource Visualizer
 
+## Server-Side Screenshoots 
+
+![image](https://github.com/user-attachments/assets/774a12a1-9df3-488d-ae5b-cc4e48516b58)
+> Website and Minecraft Server Client running
