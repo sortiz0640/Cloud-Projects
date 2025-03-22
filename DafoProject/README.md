@@ -18,7 +18,7 @@ The system consists of the following key components:
 4. This architecture ensures a secure and efficient gaming environment, leveraging cloud computing for optimal performance and reliability.
 
 ## 🔷 Infrastructure Diagram
-![Cloud Diagram](https://github.com/sortiz0640/Cloud-Projects/blob/main/DafoProject/resources/cloud-diagram.png)
+![Cloud Diagram]([https://github.com/sortiz0640/Cloud-Projects/blob/main/DafoProject/resources/cloud-diagram.png](https://github.com/sortiz0640/Cloud-Projects))
 > Created using [Eraser.io](https://www.eraser.io/diagramgpt)
 
 ## 💿 Demo
