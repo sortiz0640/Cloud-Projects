@@ -21,11 +21,11 @@ The system consists of the following key components:
 ![Demo](https://github.com/sortiz0640/Cloud-Projects/blob/main/DafoProject/resources/demo/DafoProject.gif)
 > This project is fully hosted in a private learning environment. Its resources are not deployed or available to the public
 
-
-## 🔷Resource Infrastructure Diagram
-![Cloud Diagram](https://github.com/sortiz0640/Cloud-Projects/blob/main/DafoProject/resources/DafoProject.png){: style="max-width: 100%;"}
-> Created using Azure Resource Visualizer
-
 ## 💻 Server-Side Screenshot
 ![ServerSide screenshoot](https://github.com/user-attachments/assets/774a12a1-9df3-488d-ae5b-cc4e48516b58)
 > IIS Hosted Website and Minecraft Server Client running
+
+## 🔷 Resource Infrastructure Diagram
+![Cloud Diagram](https://github.com/sortiz0640/Cloud-Projects/blob/main/DafoProject/resources/DafoProject.png)
+> Created using Azure Resource Visualizer
+
