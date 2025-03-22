@@ -1,7 +1,6 @@
 
 # DafoProject 🌐 Cloud-Based Game Server and Website
 This project implements a cloud-based infrastructure to host a game server and a website for managing game assets and documentation. The architecture is deployed on Microsoft Azure, ensuring scalability, security, and efficient access control via a VPN gateway. 
-> Review Azure Resource Manager Template [here](https://github.com/sortiz0640/Cloud-Projects/tree/main/DafoProject/resources/Azure%20Resource%20Manager%20Template)
 
 ## 📁 Project Overview
 The system consists of the following key components:
@@ -11,6 +10,7 @@ The system consists of the following key components:
 - Website: Provides access to game assets and documentation for players.
 - VPN Gateway: Ensures secure remote access for authorized users.
 - Cloud Infrastructure: Designed with Azure Virtual Network, subnets, and network security groups (NSG) to manage access control.
+> Review Azure Resource Manager Template [here](https://github.com/sortiz0640/Cloud-Projects/tree/main/DafoProject/resources/Azure%20Resource%20Manager%20Template)
 
 ## ⚙️How It Works 
 1. Clients connect to the VPN to securely access the system.
@@ -21,7 +21,6 @@ The system consists of the following key components:
 ## 💿 Demo
 ![Demo](https://github.com/sortiz0640/Cloud-Projects/blob/main/DafoProject/resources/demo/DafoProject.gif)
 > Review DafoWebsite code and resources [here](https://github.com/sortiz0640/Cloud-Projects/tree/main/DafoProject/resources/DafoWebsite)
-
 
 ## 💻 Server-Side Screenshot
 ![ServerSide screenshoot](https://github.com/user-attachments/assets/774a12a1-9df3-488d-ae5b-cc4e48516b58)
