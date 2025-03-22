@@ -20,7 +20,7 @@ The system consists of the following key components:
 
 ## 💿 Demo
 ![Demo](https://github.com/sortiz0640/Cloud-Projects/blob/main/DafoProject/resources/demo/DafoProject.gif)
-> Review DafoWebsite code and resources [here] 
+> Review DafoWebsite code and resources [here](https://github.com/sortiz0640/Cloud-Projects/tree/main/DafoProject/resources/DafoWebsite)
 
 
 ## 💻 Server-Side Screenshot
